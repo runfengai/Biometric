@@ -76,3 +76,10 @@ biometricManager.authenticate()
 ```
 
 识别结果同上，在fingerPrintCallback回调中。
+
+
+
+### TODO
+
+目前存在的问题，'androidx.biometric:biometric:1.1.0-alpha01' 中自定义取消按钮不可用，内部问题，等待官方发布新版本修复。
+
